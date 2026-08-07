@@ -4,11 +4,11 @@ uname -a
 cat /etc/os-release
 uptime
 date
-<<<<<<< HEAD
 
 
 
-=======
+
+
 cmd promt
 this is linux server 
->>>>>>> 7fab9ca (fourth time)
+
