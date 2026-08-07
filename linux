@@ -6,4 +6,6 @@ uptime
 date
 pwd
 ls -l
+ls
+top
 
