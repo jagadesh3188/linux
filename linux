@@ -4,11 +4,6 @@ uname -a
 cat /etc/os-release
 uptime
 date
-
-
-
-
-
-cmd promt
-this is linux server 
+pwd
+ls -l
 
