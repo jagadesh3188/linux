@@ -4,6 +4,6 @@ uname -a
 cat /etc/os-release
 uptime
 date
-whoami
+
 
 
