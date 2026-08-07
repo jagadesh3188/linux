@@ -1,4 +1,8 @@
-pwd
-ls
+hostname
+hostname -I
+uname -a
+cat /etc/os-release
 uptime
-whoami 
+date
+whoami
+pwd
