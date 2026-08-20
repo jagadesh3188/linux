@@ -1,0 +1,13 @@
+| Student ID | Student Name | Age | Gender | Course | Marks |
+| ---------- | ------------ | --: | ------ | ------ | ----: |
+| S001       | Rahul        |  20 | Male   | B.Tech |    85 |
+| S002       | Priya        |  21 | Female | B.Sc   |    91 |
+| S003       | Arjun        |  20 | Male   | B.Com  |    78 |
+| S004       | Sneha        |  22 | Female | B.Tech |    88 |
+| S005       | Kiran        |  21 | Male   | BCA    |    82 |
+| S006       | Anjali       |  20 | Female | B.Sc   |    95 |
+| S007       | Naveen       |  22 | Male   | B.Tech |    76 |
+| S008       | Divya        |  21 | Female | BCA    |    89 |
+| S009       | Vamshi       |  20 | Male   | B.Com  |    84 |
+| S010       | Swathi       |  22 | Female | B.Tech |    93 |
+

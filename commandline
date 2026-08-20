@@ -1,0 +1,54 @@
+The Linux `top` common is used to monitor system performance.
+It shows the processes currently run on a Linux server.
+It is very useful for Linux administrators and DevOps engineers.
+The `PID` column means Process ID.
+Every run process has a unique PID number.
+The `USER` column shows the user who started the process.
+The `PR` column means process priority.
+The `NI` column shows the nice value of the process.
+The `VIRT` column means virtual memory used by the process.
+The `RES` column means resident memory.
+RES shows the actual RAM being used by the process.
+The `SHR` column means shared memory.
+Shared memory can be used by multiple processes.
+The `S` column shows the current process status.
+`R` means the process is run.
+`S` means the process is sleeping.
+`D` means the process is in uninterruptible sleep.
+`T` means the process is stopped.
+`Z` means the process is a zombie process.
+The `%CPU` column shows CPU usage.
+High CPU usage can make a server slow.
+The `%MEM` column shows memory usage percentage.
+High memory usage can cause memory problems.
+The `TIME+` column shows total CPU time used.
+The `COMMAND` column shows the run common or application.
+For example, the common can be `java`, `nginx`, or `docker`.
+In real-time troubleshooting, first check CPU usage.
+Then check memory usage.
+After that, check the process PID.
+The PID helps us identify a specific process.
+We can use `ps -fp PID` to get more process information.
+For example, `ps -fp 2456` checks process 2456.
+We can use `kill PID` to stop a process gracefully.
+For example, `kill 2456` sends a termination signal.
+We should not kill an important process without checking it.
+The `top` common also helps identify resource-heavy applications.
+A Java application may consume high CPU during a build.
+A database process may consume high memory during heavy queries.
+Docker-related processes can also appear in the output.
+DevOps engineers commonly use `top` during server troubleshooting.
+It helps identify CPU and memory bottlenecks.
+It can also help identify unexpected processes.
+The most important columns are PID, USER, CPU, MEM, STATUS, and COMMAND.
+Remember PID to identify the process.
+Remember `%CPU` to identify CPU consumption.
+Remember `%MEM` to identify RAM consumption.
+Remember `S` to understand process status.
+Remember `COMMAND` to know which application is run.
+Remember `COMMAND` to know which application is run.
+Remember `COMMAND` to know which application is run.
+Remember `COMMAND` to know which application is run.
+Remember `COMMAND` to know which application is run.
+Remember `COMMAND` to know which application is run.
+remember `COMMAND` to know which application is run.
