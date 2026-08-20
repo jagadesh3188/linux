@@ -1,0 +1,11 @@
+hostname
+hostname -I
+uname -a
+cat /etc/os-release
+uptime
+date
+pwd
+ls -l
+ls
+top
+
