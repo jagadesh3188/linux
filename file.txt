@@ -10,4 +10,9 @@
 | S008       | Divya        |  21 | Female | BCA    |    89 |
 | S009       | delhi        |  20 | Male   | B.Com  |    84 |
 | S010       | venky        |  22 | Female | B.Tech |    93 |
+| S007       | Ninnaa       |  22 | Male   | B.Tech |    76 |
+| S008       | monaa        |  21 | Female | BCA    |    89 |
+| S009       | delhia       |  20 | Male   | B.Com  |    84 |
+| S010       | chenni       |  22 | Female | B.Tech |    93 |
+
 
